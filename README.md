@@ -37,6 +37,7 @@ Deployment: GitHub Pages
 
 🔗 Live Demo
 
+https://sridaya.github.io/My_Portfolio/
 
 📬 Contact
 
